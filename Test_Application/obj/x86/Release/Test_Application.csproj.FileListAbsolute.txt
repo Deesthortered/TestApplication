@@ -1,0 +1,11 @@
+C:\Users\Анатолий\documents\visual studio 2010\Projects\Test_Application\Test_Application\bin\Release\Test_Application.exe
+C:\Users\Анатолий\documents\visual studio 2010\Projects\Test_Application\Test_Application\bin\Release\Test_Application.pdb
+C:\Users\Анатолий\documents\visual studio 2010\Projects\Test_Application\Test_Application\obj\x86\Release\Test_Application.Form1.resources
+C:\Users\Анатолий\documents\visual studio 2010\Projects\Test_Application\Test_Application\obj\x86\Release\Test_Application.Form2.resources
+C:\Users\Анатолий\documents\visual studio 2010\Projects\Test_Application\Test_Application\obj\x86\Release\Test_Application.Form3.resources
+C:\Users\Анатолий\documents\visual studio 2010\Projects\Test_Application\Test_Application\obj\x86\Release\Test_Application.Properties.Resources.resources
+C:\Users\Анатолий\documents\visual studio 2010\Projects\Test_Application\Test_Application\obj\x86\Release\Test_Application.csproj.GenerateResource.Cache
+C:\Users\Анатолий\documents\visual studio 2010\Projects\Test_Application\Test_Application\obj\x86\Release\Test_Application.exe
+C:\Users\Анатолий\documents\visual studio 2010\Projects\Test_Application\Test_Application\obj\x86\Release\Test_Application.pdb
+D:\Рабочая\Проекты\Test_Application\Test_Application\obj\x86\Release\Test_Application.exe
+D:\Рабочая\Проекты\Test_Application\Test_Application\obj\x86\Release\Test_Application.pdb

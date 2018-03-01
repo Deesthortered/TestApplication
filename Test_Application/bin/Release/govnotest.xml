@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<test>
+  <max_question>5</max_question>
+  <question1>
+    <question>Are you idiot</question>
+    <answers>3</answers>
+    <right_answers>1</right_answers>
+    <right>2</right>
+    <answer1>Yes</answer1>
+    <answer2>Yes, I am</answer2>
+    <answer3>Yes, of course</answer3>
+  </question1>
+  <question2>
+    <question>Are you bastar or bitch?</question>
+    <answers>3</answers>
+    <right_answers>1</right_answers>
+    <right>3</right>
+    <answer1>Bastard</answer1>
+    <answer2>Bitch</answer2>
+    <answer3>Bitchstard</answer3>
+  </question2>
+  <question3>
+    <question>Your voice?</question>
+    <answers>3</answers>
+    <right_answers>1</right_answers>
+    <right>3</right>
+    <answer1>Kokoko</answer1>
+    <answer2>Pudpudah</answer2>
+    <answer3>Kukarek</answer3>
+  </question3>
+  <question4>
+    <question>Sex?</question>
+    <answers>3</answers>
+    <right_answers>1</right_answers>
+    <right>1</right>
+    <answer1>Yes</answer1>
+    <answer2>No</answer2>
+    <answer3>i dont know</answer3>
+  </question4>
+  <question5>
+    <question>Auto?</question>
+    <answers>3</answers>
+    <right_answers>3</right_answers>
+    <right>123</right>
+    <answer1>Mercedes</answer1>
+    <answer2>Grand theft ...</answer2>
+    <answer3>c++</answer3>
+  </question5>
+</test>
